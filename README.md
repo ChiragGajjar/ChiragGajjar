@@ -7,6 +7,7 @@
 
 <a href="https://twitter.com/ChiragMistry_" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ChiragMistry_" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/chirag-sondagar-b13b18101" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chirag-sondagar-b13b18101/" height="22" width="22" /></a>
+<a href="https://upwork.com/freelancers/~0174d5c21a6b09beac" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="chirag-sondagar/" height="22" width="22" /></a>
 
 <br />
 
