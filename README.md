@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag Sondagar</h1>
 <h3 align="center">I am a Software engineer with experience in building intelligent & scalable applications using (Swift | Obj-C| Flutter).</h3>
+<h4 align="center">If you have a need for a mobile application or website, contact me by email: gajjarmail07@gmail.com</h4>
 
 
 
@@ -11,11 +12,13 @@
 
 <br />
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=ChiragGajjar&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragGajjar&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em"/>
+</p>
 
-### Languages and Tools:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragGajjar&layout=compact&hide=html" alt="ChiragGajjar" /></p>
-
+#### Skills
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![iOS Badge](https://img.shields.io/badge/-iOS-3C8749?style=for-the-badge&labelColor=black&logo=apple&logoColor=3C8749)](#)[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
 <br />
 
 <!-- ### Visitors Count -->
