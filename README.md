@@ -6,10 +6,31 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/ChiragMistry_" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ChiragMistry_" height="22" width="22" /></a>
+<!-- <a href="https://twitter.com/ChiragMistry_" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ChiragMistry_" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/chirag-sondagar-b13b18101" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chirag-sondagar-b13b18101/" height="22" width="22" /></a>
-<a href="https://upwork.com/freelancers/~0174d5c21a6b09beac" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="chirag-sondagar/" height="22" width="22" /></a>
+<a href="https://upwork.com/freelancers/~0174d5c21a6b09beac" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="chirag-sondagar/" height="22" width="22" /></a> -->
 
+<!-- <br /> -->
+
+<div align="left">
+  <!-- LINKEDIN -->
+  <a href="https://in.linkedin.com/in/chirag-sondagar-b13b18101/"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=gajjarmail07@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+ 
+  <a href="https://twitter.com/ChiragMistry_">
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  
+  <a href="https://upwork.com/freelancers/~0174d5c21a6b09beac">
+    <img src="https://img.shields.io/badge/upwork-%D14836.svg?&style=for-the-badge&logo=upwork&logoColor=white&Color=green">
+  </a>
+  
+</div>
 <br />
 
 <p>
